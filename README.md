@@ -1,2 +1,0 @@
-# mybatis-quickStarter
-mybatis-quickStarter
